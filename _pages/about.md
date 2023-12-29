@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: PhD Student, University of California, Los Angeles
 
 profile:
   align: right
